@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(54, 54, 54);
+}
+
+h1 {
+  color: rgba(75, 74, 69, 0.815);
+}
+h2 {
+  color: rgb(163, 155, 143);
+}
+P {
+  color: rgb(0, 0, 0);
+  text-align: left;
+}
+
+img {
+  width: 300px;
+}
+table {
+  color: rgb(255, 255, 255);
+}
